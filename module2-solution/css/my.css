@@ -40,6 +40,7 @@ body{
 	padding: 5px 80px;
 	border-left: 3px solid black;
 	border-bottom: 3px solid black;
+	color: white;
 }
 #one{
 	background-color:red;
