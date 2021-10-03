@@ -41,6 +41,15 @@ body{
 	border-left: 3px solid black;
 	border-bottom: 3px solid black;
 }
+#one{
+	background-color:red;
+}
+#two{
+	background-color:green;
+}
+#three{
+	background-color:blue;
+}
 /*Desktop*/
 
 @media (min-width: 992px){
